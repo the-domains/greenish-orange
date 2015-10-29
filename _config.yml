@@ -1,0 +1,23 @@
+name: Greenish Orange
+favicon: null
+layout_spectrum: 0.21745532588101923
+typography_spectrum: 0.8156188658904284
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.23647668352350593
+  lightness: 0.11509294551797211
+  saturation: 0.39781206916086376
+  rhythmicContrast: 0.16231667017564178
+purpose: []
