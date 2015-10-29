@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Greenish Orange]]></title>
         <description><![CDATA[Greenish Orange]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/greenish-orange/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 16:53:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 29 Oct 2015 16:55:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greenish-orange/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What we do]]></title>
             <description><![CDATA[<h1>What we do</h1>]]></description>
-            <link>undefinedwhat-we-do/index.html</link>
+            <link>https://thegrid.ai/greenish-orange/what-we-do/index.html</link>
             <guid isPermaLink="false">c94c3d9d-3cd9-4122-aa8e-b4e146e54a9e</guid>
-            <pubDate>Thu, 29 Oct 2015 16:53:25 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2015 16:55:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
