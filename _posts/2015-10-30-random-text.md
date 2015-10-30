@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-30T23:45:15.334Z'
-dateModified: '2015-10-30T23:45:12.600Z'
-title: Random Text
+datePublished: '2015-10-30T23:59:56.023Z'
+dateModified: '2015-10-30T23:59:51.165Z'
+title: About
 sourcePath: _posts/2015-10-30-random-text.md
 published: true
 authors: []
@@ -21,6 +21,8 @@ url: random-text/index.html
 _type: Article
 
 ---
-Title
-
 safdasdfasdfa sdf asd
+
+safdasdfasdfa sdf asd safdasdfasdfa sdf asd safdasdfasdfa sdf asd
+
+sdfa;slkjdas dlaflksdjf;aksdj
