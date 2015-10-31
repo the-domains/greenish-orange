@@ -4,7 +4,7 @@
         <description><![CDATA[Greenish Orange]]></description>
         <link>https://thegrid.ai/greenish-orange/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 23:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 00:00:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greenish-orange/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Fri, 30 Oct 2015 23:51:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Random Text]]></title>
-            <description><![CDATA[<article><h1>Random Text</h1><p>Title</p></article>]]></description>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>safdasdfasdfa sdf asd</p></article>]]></description>
             <link>https://thegrid.ai/greenish-orange/random-text/index.html</link>
             <guid isPermaLink="false">0cbbef7b-e22b-4cca-9734-e1f9f110b1fe</guid>
-            <pubDate>Fri, 30 Oct 2015 23:45:15 GMT</pubDate>
+            <pubDate>Fri, 30 Oct 2015 23:59:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
