@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-30T23:59:56.023Z'
-dateModified: '2015-10-30T23:59:51.165Z'
+datePublished: '2015-10-31T00:01:39.459Z'
+dateModified: '2015-10-31T00:01:36.769Z'
 title: About
 sourcePath: _posts/2015-10-30-random-text.md
 published: true
