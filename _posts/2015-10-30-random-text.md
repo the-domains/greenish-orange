@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T00:01:39.459Z'
-dateModified: '2015-10-31T00:01:36.769Z'
+datePublished: '2015-10-31T00:03:44.305Z'
+dateModified: '2015-10-31T00:03:34.906Z'
 title: About
 sourcePath: _posts/2015-10-30-random-text.md
 published: true
@@ -17,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: random-text/index.html
-_type: Article
+_type: Blurb
 
 ---
 safdasdfasdfa sdf asd
