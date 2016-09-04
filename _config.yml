@@ -1,19 +1,4 @@
-name: Greenish Orange
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.68291
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-91230-9
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fefefe'
@@ -25,4 +10,20 @@ color:
   lightness: 0.625
   saturation: 0.375
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-91230-9
+  facebook: null
+  twitter: null
+name: Greenish Orange
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Web Design & Development
 purpose: []
